@@ -1,8 +1,10 @@
-NOTE: A SISTER REPO WITH LIVE DEMO DEPLOYMENT >
+NOTE: A SISTER REPO WITH LIVE DEMO DEPLOYMENT
+
 source demo repo: https://github.com/undefinedlab/TestDeploy
+
 live demo: https://test-deploy-eight-ecru.vercel.app
 
-// in the following the comment on git history and development process.
+... in the following the comment on git history and development process.
 
 
 # A Journey Through Git and Deployment
