@@ -1,11 +1,8 @@
-//////////////////////////////////////////////////////
-NOTE: A SISTER REPO WITH LIVE DEMO DEPLOYMENT IS HERE>
-//////////////////////////////////////////////////////
+# NOTE: A SISTER REPO WITH LIVE DEMO DEPLOYMENT IS HERE>
 
 source demo repo: https://github.com/undefinedlab/TestDeploy
 live demo: https://test-deploy-eight-ecru.vercel.app
 
-//////////////////////////////////////////////////////
 
 
 .// in the following the comment on git history and development process.
